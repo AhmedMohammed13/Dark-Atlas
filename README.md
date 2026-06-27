@@ -4,7 +4,7 @@
 ---
 ## Overview
 
-DarkAtlas Asset Management API is a security-focused asset tracking system 
+<sub>DarkAtlas Asset Management API is a security-focused asset tracking system 
 built for Buguard's Attack Surface Monitoring platform. It ingests, deduplicates, 
 and lifecycle-manages an organization's internet-facing assets — domains, subdomains, 
 IP addresses, services, TLS certificates, and technologies — while exposing a 
