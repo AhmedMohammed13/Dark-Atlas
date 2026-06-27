@@ -189,7 +189,7 @@ http://localhost:8000/docs
  
 ---
  
-### Mode 5 — `agent` ⭐ Bonus (Agentic Tool-Use with Tavily)
+### Mode 5 — `agent`  (Agentic Tool-Use with Tavily)
  
 The agent autonomously:
 1. Searches internal DB for matching assets
